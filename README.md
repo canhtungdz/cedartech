@@ -19,3 +19,4 @@ npx wrangler pages deploy . --project-name=cedartech
 
 Replace `cedartech` with an available Cloudflare Pages project name. The included `_headers` file adds sensible security headers and long-lived caching for the generated hero art.
 # cedartech
+a
