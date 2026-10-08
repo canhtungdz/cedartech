@@ -1,4 +1,4 @@
-# NEXORA website
+# Cedar Tech website
 
 Static corporate homepage for an AI game studio. No build step is required.
 
@@ -14,8 +14,8 @@ Static corporate homepage for an AI game studio. No build step is required.
 ### Direct upload
 
 ```bash
-npx wrangler pages deploy . --project-name=nexora-games
+npx wrangler pages deploy . --project-name=cedartech
 ```
 
-Replace `nexora-games` with an available Cloudflare Pages project name. The included `_headers` file adds sensible security headers and long-lived caching for the generated hero art.
+Replace `cedartech` with an available Cloudflare Pages project name. The included `_headers` file adds sensible security headers and long-lived caching for the generated hero art.
 # cedartech
